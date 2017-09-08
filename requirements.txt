@@ -1,0 +1,10 @@
+# Basic libraries
+numpy>=1.12,<2.0
+pandas>=0.18.0
+scipy>=0.17.0
+
+# Web service
+Flask>=0.12.2
+
+# Machine learning
+scikit-learn>=0.18.2
